@@ -1,0 +1,22 @@
+body {
+  background: #111;
+}
+
+img {
+  width: 100%;
+}
+.photo-grid-container {
+  column-count: auto;
+  column-width: 300px;
+}
+
+.video-grid-item {
+  margin: 0 auto 15px;
+  max-width: 349px;
+  width: 100%;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
